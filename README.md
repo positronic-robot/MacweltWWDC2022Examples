@@ -2,6 +2,6 @@
 
 ###############
 
-Alle Beispiele aus dem Macwelt Beitrag vom 13.6.2022
+Alle Beispiele aus dem Macwelt Beitrag vom 14.6.2022
 
 ###############
